@@ -1,6 +1,6 @@
 # Visually Grounded Story Generation Challenge (VGSG)
 
-Shared task on multimodal story generation at the ****Generation Challenges at INLG 2024
+Shared task on multimodal story generation at the Generation Challenges at INLG 2024
 
 # Overview
 
