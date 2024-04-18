@@ -48,30 +48,6 @@ We use a high-quality crowdsourced dataset **[Visual Writing Prompts](https://vw
 
 Participants need to submit their generated stories together with a system description to the shared task page on [Dynabench](https://dynabench.org/). 
 
-**Strict Track:** This focuses on exploring Language and Vision Mapping methods and Language Generation models through a controlled experiment. We provide extracted visual features from a pre-trained vision model, which participants can only use as input to train their models with the provided dataset.
-**Open Track:** This aims to test the state-of-the-art of the task. Participants can use all kinds of resources, including pre-trained models and additional text or vision-only datasets. However, they cannot use other vision and language datasets apart from the provided dataset.
-**Grounding Track:** This is based on the Open Track, but participants are required to submit a mapping of all entities in the generated text and provided characters (see Figure 2 for an example). The submissions to this track will be evaluated on the VISTCharacter dataset (Liu and Keller, 2023).
-
-# Timeline
-
-Apr 2024: Announcements
-
-Apr 15, 2024: Release of Data (see website for download)
-
-May 1, 2024: System Submission Open
-
-June 1, 2024: System Submission Deadline
-
-June 15, 2024: System Report Submissions Deadline
-
-June 15-July 15, 2024: Evaluation Period
-
-July 31, 2024: System Report Review Notification
-
-Aug 15, 2024: Camera Ready Deadline for System Reports:
-
-September 18-20: Presentation at INLG 2024
-
 # Organizers
 
 Xudong Hong (Saarland University)
